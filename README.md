@@ -34,8 +34,8 @@
 
 <div align="center">
   <!-- LeetCode Dynamic Stats -->
-  <a href="https://leetcode.com/TarunThakur13">
-    <img src="https://leetcard.jacoblin.cool/TarunThakur13?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/thakurtarun338">
+    <img src="https://leetcard.jacoblin.cool/thakurtarun338?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
   </a>
 </div>
 
@@ -43,8 +43,8 @@
 
 <div align="center">
   <!-- Codeforces Dynamic Stats -->
-  <a href="https://codeforces.com/profile/TarunThakur13">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=TarunThakur13&theme=radical" alt="Codeforces Stats" />
+  <a href="https://codeforces.com/profile/thakurtarun338">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=thakurtarun338&theme=radical" alt="Codeforces Stats" />
   </a>
 </div>
 
@@ -52,17 +52,16 @@
 
 <div align="center">
   <!-- Current Ranks Badges -->
-  <a href="https://leetcode.com/TarunThakur13/">
+  <a href="https://leetcode.com/thakurtarun338/">
     <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Knight" />
   </a>
-  <a href="https://codeforces.com/profile/TarunThakur13">
+  <a href="https://codeforces.com/profile/thakurtarun338">
     <img src="https://img.shields.io/badge/Codeforces-Specialist-03A89E?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Specialist" />
   </a>
-  <a href="https://www.codechef.com/users/TarunThakur13">
+  <a href="https://www.codechef.com/users/thakurtarun338">
     <img src="https://img.shields.io/badge/CodeChef-3%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 3 Star" />
   </a>
 </div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TarunThakur13&show_icons=true&theme=radical" alt="Tarun's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunThakur13&theme=radical" alt="Tarun's GitHub Streak" />
