@@ -52,7 +52,7 @@
 
 <div align="center">
   <!-- Current Ranks Badges -->
-  <a href="https://leetcode.com/u/thakurtarun338/">
+  <a href="https://leetcode.com/thakurtarun338/">
     <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Knight" />
   </a>
   <a href="https://codeforces.com/profile/thakurtarun338">
@@ -62,15 +62,22 @@
     <img src="https://img.shields.io/badge/CodeChef-3%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 3 Star" />
   </a>
 </div>
+
+<br/>
+<br/>
+<br/>
+
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarunThakur13&show_icons=true&theme=radical&v=1" alt="Tarun's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TarunThakur13&show_icons=true&theme=radical&v=2" alt="Tarun's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunThakur13&theme=radical" alt="Tarun's GitHub Streak" />
 </div>
 
+<br/>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunThakur13&layout=compact&theme=radical&v=1" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunThakur13&layout=compact&theme=radical&v=2" alt="Top Languages" />
 </p>
 
 ---
