@@ -23,8 +23,8 @@
 | Project & Source Code | Description | Tech Stack | Live Demo |
 | :--- | :--- | :--- | :--- |
 | **[NeuroCollab](https://github.com/TarunThakur13/neurocollab)** | Full-stack, multi-agent AI workspace enabling autonomous task resolution via a coordinated team of specialized AI agents. | Next.js 15, FastAPI, LangGraph, WebSockets, PostgreSQL | [🔗 View App](https://neurocollab-eta.vercel.app) |
-| **[StoreIt](https://github.com/TarunThakur13/StoreIt)** | Cloud-based platform for secure storage, organization, and sharing of digital assets with an interactive analytics dashboard. | Next.js, TypeScript, Appwrite, Chart.js, Tailwind CSS | [🔗 View App](https://storage-management-silk.vercel.app/) |
-| **[3D Pathfinding Visualizer](https://github.com/TarunThakur13/path-vizualizer)** | Interactive 3D visualization tool for exploring grid-based algorithms like A*, Dijkstra’s, and BFS with weighted node systems. | Three.js, GSAP, JavaScript (ES6+), HTML5/CSS3 | [🔗 View App](https://path-vizualizer.vercel.app/) |
+| **[StoreIt](https://github.com/TarunThakur13/store-management)** | Cloud-based platform for secure storage, organization, and sharing of digital assets with an interactive analytics dashboard. | Next.js, TypeScript, Appwrite, Chart.js, Tailwind CSS | [🔗 View App](https://storage-management-silk.vercel.app/) |
+| **[3D Pathfinding Visualizer](https://github.com/TarunThakur13/PathVizualizer)** | Interactive 3D visualization tool for exploring grid-based algorithms like A*, Dijkstra’s, and BFS with weighted node systems. | Three.js, GSAP, JavaScript (ES6+), HTML5/CSS3 | [🔗 View App](https://path-vizualizer.vercel.app/) |
 
 ---
 
