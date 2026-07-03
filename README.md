@@ -63,12 +63,12 @@
   </a>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarunThakur13&show_icons=true&theme=radical" alt="Tarun's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TarunThakur13&show_icons=true&theme=radical&cache_seconds=86400" alt="Tarun's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunThakur13&theme=radical" alt="Tarun's GitHub Streak" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunThakur13&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunThakur13&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
 </p>
 
 ---
