@@ -52,7 +52,7 @@
 
 <div align="center">
   <!-- Current Ranks Badges -->
-  <a href="https://leetcode.com/thakurtarun338/">
+  <a href="https://leetcode.com/u/thakurtarun338/">
     <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Knight" />
   </a>
   <a href="https://codeforces.com/profile/thakurtarun338">
