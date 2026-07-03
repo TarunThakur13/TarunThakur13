@@ -62,13 +62,15 @@
     <img src="https://img.shields.io/badge/CodeChef-3%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 3 Star" />
   </a>
 </div>
+### 📈 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarunThakur13&show_icons=true&theme=radical&cache_seconds=86400" alt="Tarun's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TarunThakur13&show_icons=true&theme=radical&v=1" alt="Tarun's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunThakur13&theme=radical" alt="Tarun's GitHub Streak" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunThakur13&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunThakur13&layout=compact&theme=radical&v=1" alt="Top Languages" />
 </p>
 
 ---
