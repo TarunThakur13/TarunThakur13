@@ -28,8 +28,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
 ### 🏆 Competitive Programming
 
 <div align="center">
@@ -70,14 +68,17 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarunThakur13&show_icons=true&theme=radical&v=2" alt="Tarun's GitHub Stats" />
+  <!-- Swapped to the fast community fork -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=TarunThakur13&show_icons=true&theme=radical" alt="Tarun's GitHub Stats" />
+  <!-- Streak stats use a different working server, so we leave it as-is -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunThakur13&theme=radical" alt="Tarun's GitHub Streak" />
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunThakur13&layout=compact&theme=radical&v=2" alt="Top Languages" />
+  <!-- Swapped to the fast community fork -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TarunThakur13&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
