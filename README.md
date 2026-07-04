@@ -71,6 +71,12 @@
 
 <br/>
 
+<p align="center">
+  <!-- Swapped to the fast community fork -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TarunThakur13&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<br />
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TarunThakur13&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Tarun's Trophies" />
 </div>
