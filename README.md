@@ -63,10 +63,6 @@
 
 ### 📈 GitHub Stats & Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TarunThakur13&theme=radical&hide_border=true" alt="Tarun's Activity Graph" />
-</div>
-
 <br/>
 
 <div align="center">
