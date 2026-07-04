@@ -13,7 +13,6 @@
 ---
 
 ### 🚀 Languages & Tools
-<!-- You can generate nice icons for these using skillicons.dev -->
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,python,ts,js,html,css,nextjs,react,nodejs,express,fastapi,tailwind,postgres,mongodb,postman,git,github,vercel)](https://skillicons.dev)
 
 ---
@@ -31,7 +30,6 @@
 ### 🏆 Competitive Programming
 
 <div align="center">
-  <!-- LeetCode Dynamic Stats -->
   <a href="https://leetcode.com/thakurtarun338">
     <img src="https://leetcard.jacoblin.cool/thakurtarun338?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats" />
   </a>
@@ -40,7 +38,6 @@
 <br/>
 
 <div align="center">
-  <!-- Codeforces Dynamic Stats -->
   <a href="https://codeforces.com/profile/thakurtarun338">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=thakurtarun338&theme=radical" alt="Codeforces Stats" />
   </a>
@@ -49,7 +46,6 @@
 <br/>
 
 <div align="center">
-  <!-- Current Ranks Badges -->
   <a href="https://leetcode.com/thakurtarun338/">
     <img src="https://img.shields.io/badge/LeetCode-Knight-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Knight" />
   </a>
@@ -65,21 +61,23 @@
 <br/>
 <br/>
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Activity
 
 <div align="center">
-  <!-- Swapped to the fast community fork -->
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=TarunThakur13&show_icons=true&theme=radical" alt="Tarun's GitHub Stats" />
-  <!-- Streak stats use a different working server, so we leave it as-is -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunThakur13&theme=radical" alt="Tarun's GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TarunThakur13&theme=radical&hide_border=true" alt="Tarun's Activity Graph" />
 </div>
 
 <br/>
 
-<p align="center">
-  <!-- Swapped to the fast community fork -->
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TarunThakur13&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunThakur13&theme=radical&hide_border=true" alt="Tarun's GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TarunThakur13&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Tarun's Trophies" />
+</div>
 
 ---
 *Turning complex logic into scalable reality! 🚀*
